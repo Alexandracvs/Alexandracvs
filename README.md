@@ -12,20 +12,15 @@ Estou sempre em desenvolvimento. participando e fornecendo formações focadas e
 
 ## 🔹 Projetos em Destaque:
 
-📌 [Projeto 1: Nome do Projeto](https://github.com/Alexandracvs/projeto1)  
+📌 [Projeto 1: Nome do Projeto](https://github.com/Alexandracvs/projeto1)   – Em breve!  
 Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
-📌 [Projeto 2: Nome do Projeto](https://github.com/Alexandracvs/projeto2)  
+📌 [Projeto 2: Nome do Projeto](https://github.com/Alexandracvs/projeto2)   – Em breve!  
 Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
-📌 [Projeto 3: Nome do Projeto](https://github.com/Alexandracvs/projeto3)  
+📌 [Projeto 3: Nome do Projeto](https://github.com/Alexandracvs/projeto3)   – Em breve!  
 Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
-
-
-🔹 **Projetos em Destaque:**  
-📌 [Projeto 1](https://github.com/Alexandracvs/projeto1) – Em breve!  
-📌 [Projeto 2](https://github.com/Alexandracvs/projeto2) – Em breve!   
 
 🔹 **Me encontre por aqui:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  💬 Quer falar comigo, não deixe de entrar em contato ...
