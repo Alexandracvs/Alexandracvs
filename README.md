@@ -40,4 +40,9 @@ Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 
+## 📊 Minhas Estatísticas no GitHub
+
+![Alexandracvs GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandracvs&show_icons=true&theme=dracula)
+
+
 
