@@ -1,12 +1,14 @@
-# Olá, eu sou a Alexandra! 👋 
+# Olá, meu nome é Alexandra! 👋 
 
-Graduada em Tecnologia da Informação, com MBA em Gestão de Projetos padrão PMI. Com mais de 20 anos de experiência na área de Tecnologia, tenho me especializado na Análise de dados e Business Inteligence, transformação de dados brutos em insights estratégicos, a facilitar na tomada de decisões.
+Sou graduada em **Tecnologia da Informação** e possuo **MBA em Gestão de Projetos**, com foco no padrão PMI. Com mais de 20 anos de experiência na área de Tecnologia, venho me especializando em **Análise de Dados e Business Intelligence**, transformando dados brutos em insights estratégicos que facilitam a tomada de decisões.
 
-Minha trajetória também inclui formações e treinamentos nessa área, tanto para empresas quanto para centros de emprego em Portugal, com o objetivo de capacitar pessoas e promover o desenvolvimento profissional na área de dados.
+Minha trajetória inclui, além da experiência prática, formações e treinamentos focados em dados, tanto para empresas quanto para centros de emprego em Portugal. Meu objetivo é capacitar profissionais e contribuir para o desenvolvimento da área de dados.
 
-Aqui você encontrará Alguns projetos voltados para **Power BI**, **análise de dados**, **modelagem de dados**, **visualizações** e **soluções de negócios** que desenvolvi.
+Tenho também expertise em gestão híbrida de projetos, utilizando metodologias ágeis e tradicionais para garantir a entrega eficiente e eficaz dos projetos.
 
-Estou sempre em desenvolvimento. participando e fornecendo formações focadas em análise de dados, Power BI, modelagem de dados, e projetos de TI.
+Aqui, você encontrará alguns dos projetos que desenvolvi, envolvendo ferramentas como Power BI, análise de dados, modelagem de dados, visualizações e soluções de negócios.
+
+Estou sempre em evolução, participando ativamente de cursos e oferecendo treinamentos em análise de dados, Power BI, modelagem de dados, gestão híbrida de projetos e projetos de TI.
 
 
 
