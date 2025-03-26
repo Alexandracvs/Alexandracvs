@@ -32,13 +32,17 @@ Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
 ## 💻 Tecnologias e Ferramentas:
 
-![Power BI](https://img.shields.io/badge/Power%20BI-FFB800?style=for-the-badge&logo=powerbi&logoColor=white)
-![Project](https://img.shields.io/badge/Microsoft%20Project-3A8CFF?style=for-the-badge&logo=microsoftproject&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-DC5C47?style=for-the-badge&logo=scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=kanban&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PMI](https://img.shields.io/badge/PMI-003B49?style=for-the-badge&logo=pmi&logoColor=white) &nbsp;&nbsp; 
+![Scrum](https://img.shields.io/badge/Scrum-DC5C47?style=for-the-badge&logo=scrum&logoColor=white) &nbsp;&nbsp;
+![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=kanban&logoColor=white) &nbsp;&nbsp;
+![Business Intelligence](https://img.shields.io/badge/BI-000000?style=for-the-badge&logo=chart-line&logoColor=white) &nbsp;&nbsp;
+#
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB800?style=for-the-badge&logo=powerbi&logoColor=white) &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) &nbsp;&nbsp;
+#
+![Project](https://img.shields.io/badge/Microsoft%20Project-3A8CFF?style=for-the-badge&logo=microsoftproject&logoColor=white) &nbsp;&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 
 
