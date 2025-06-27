@@ -14,7 +14,7 @@ Estou sempre em evolução, participando ativamente de cursos e oferecendo trein
 
 ## 🔹 Projetos em Destaque:
 
-📌 [Projeto 1: Nome do Projeto](https://github.com/Alexandracvs/projeto1)   – Em breve!  
+📌 [Projeto 1: Nome do Projeto](https://github.com/Alexandracvs/Analise-Olit)   – Em breve!  
 Breve descrição do que o projeto faz, as tecnologias utilizadas e o impacto.
 
 📌 [Projeto 2: Nome do Projeto](https://github.com/Alexandracvs/projeto2)   – Em breve!  
